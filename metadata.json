@@ -1,0 +1,6 @@
+{
+  "name": "AI English Speaking Coach",
+  "description": "Ứng dụng luyện nói tiếng Anh tương tác từ cơ bản đến nâng cao với chấm điểm chi tiết bằng AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
